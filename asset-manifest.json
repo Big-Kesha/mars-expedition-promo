@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/mars-expedition-promo/static/css/main.7f0771a4.css",
+    "main.js": "/mars-expedition-promo/static/js/main.9d153667.js",
+    "static/js/787.cda3a796.chunk.js": "/mars-expedition-promo/static/js/787.cda3a796.chunk.js",
+    "static/media/sky-backround.jpg": "/mars-expedition-promo/static/media/sky-backround.dd5f41797748927e5e8d.jpg",
+    "static/media/temporary_video_replace.png": "/mars-expedition-promo/static/media/temporary_video_replace.c83aa59de06f3e3a378e.png",
+    "static/media/Mars.svg": "/mars-expedition-promo/static/media/Mars.6cea588b217aaf5a46bda3d3d97fdb54.svg",
+    "index.html": "/mars-expedition-promo/index.html",
+    "static/media/Ellipse-bottom.svg": "/mars-expedition-promo/static/media/Ellipse-bottom.3ce7380859d7be265a2cd4b8274b69b7.svg",
+    "static/media/Vector.svg": "/mars-expedition-promo/static/media/Vector.32bea88a0a19f03d27342162bded16d4.svg",
+    "static/media/Ellipse 1.svg": "/mars-expedition-promo/static/media/Ellipse 1.51527776a3afdc9a48986e73955776e0.svg",
+    "main.7f0771a4.css.map": "/mars-expedition-promo/static/css/main.7f0771a4.css.map",
+    "main.9d153667.js.map": "/mars-expedition-promo/static/js/main.9d153667.js.map",
+    "787.cda3a796.chunk.js.map": "/mars-expedition-promo/static/js/787.cda3a796.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f0771a4.css",
+    "static/js/main.9d153667.js"
+  ]
+}

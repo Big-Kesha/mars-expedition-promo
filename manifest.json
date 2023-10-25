@@ -1,0 +1,9 @@
+{
+  "short_name": "Go Mars",
+  "name": "Mars Expedition Promo",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
