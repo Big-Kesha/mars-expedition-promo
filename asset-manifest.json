@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d70097a1.css",
+    "main.js": "/static/js/main.62047b05.js",
+    "static/js/787.cda3a796.chunk.js": "/static/js/787.cda3a796.chunk.js",
+    "static/media/sky-backround.jpg": "/static/media/sky-backround.dd5f41797748927e5e8d.jpg",
+    "static/media/temporary_video_replace.png": "/static/media/temporary_video_replace.c83aa59de06f3e3a378e.png",
+    "static/media/Mars.svg": "/static/media/Mars.6cea588b217aaf5a46bda3d3d97fdb54.svg",
+    "index.html": "/index.html",
+    "static/media/Ellipse-bottom.svg": "/static/media/Ellipse-bottom.3ce7380859d7be265a2cd4b8274b69b7.svg",
+    "static/media/Vector.svg": "/static/media/Vector.32bea88a0a19f03d27342162bded16d4.svg",
+    "static/media/Ellipse 1.svg": "/static/media/Ellipse 1.51527776a3afdc9a48986e73955776e0.svg",
+    "main.d70097a1.css.map": "/static/css/main.d70097a1.css.map",
+    "main.62047b05.js.map": "/static/js/main.62047b05.js.map",
+    "787.cda3a796.chunk.js.map": "/static/js/787.cda3a796.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d70097a1.css",
+    "static/js/main.62047b05.js"
+  ]
+}
